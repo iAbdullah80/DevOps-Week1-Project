@@ -2,3 +2,4 @@
 - Set up Git repository
 - Practice Git branching"
 - Set up Git repository
+- Review Git merge and rebase
